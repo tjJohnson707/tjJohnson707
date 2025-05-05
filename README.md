@@ -4,7 +4,8 @@
 
 - <b>Wells Fargo Task 2 Answer (Java)</b>
   - [Wells Fargo Task 2 Answer](https://github.com/tjJohnson707/wells-fargo-task-2-answer)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>HTTP Sever (Serves static HTML content, Multi-threaded request handling, Basic logging using SLF4J + Logback Configurable via JSON file)</b>
+    -[HTTP Server](https://github.com/tjJohnson707/MysimpleHttpSever)
   - [Image Analysis Middleware] <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]
